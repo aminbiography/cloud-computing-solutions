@@ -1,0 +1,382 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cloud Computing Project</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background: #f4f4f9;
+            color: #333;
+        }
+
+        header {
+            background: linear-gradient(135deg, #d4e6f1, #ffffff, #b3cde0);
+            color: white;
+            padding: 20px 0;
+            text-align: center;
+        }
+
+        header h1 {
+            margin: 0;
+            font-size: 2.5rem;
+            font-weight: 900; 
+            color: #ffffff; 
+            text-transform: uppercase; 
+            letter-spacing: 1.5px; 
+            text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+        }
+        .sub-heading {
+            margin: 0;
+            font-size: 2.5rem;
+            font-weight: 400; 
+            color: #800080;
+            letter-spacing: 1.5px; 
+            text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5); 
+        }
+        .heading {
+            font-size: 1rem; 
+            font-weight: 400; 
+            line-height: 1.6; 
+            color: #800080;
+            margin: 10px 0; 
+            text-align: center;
+        }
+
+        nav {
+            text-align: center;
+            margin: 20px 0;
+        }
+
+        nav a {
+            margin: 0 15px;
+            text-decoration: none;
+            color: #800080;
+            font-weight: bold;
+        }
+
+        nav a:hover {
+            text-decoration: underline;
+        }
+
+        .container {
+            max-width: 1200px;
+            margin: auto;
+            padding: 20px;
+        }
+
+        .feature {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            background: white;
+            padding: 20px;
+            margin: 10px 0;
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+        }
+
+        .feature img {
+            max-width: 150px;
+        }
+
+        .feature-text {
+            max-width: 800px;
+        }
+
+        footer {
+            text-align: center;
+            padding: 10px 0;
+            background: linear-gradient(135deg, #d4e6f1, #ffffff, #b3cde0);
+            color: white;
+            margin-top: 20px;
+        }
+
+        .sub-heading {
+            background: linear-gradient(135deg, #d4e6f1, #ffffff, #b3cde0);
+            color:#800080;
+            padding: 20px;
+            text-align: center;
+            margin-top: 20px;
+            border-radius: 8px; 
+            transition: background 0.3s ease;
+        }
+
+        .cta {
+            background: linear-gradient(135deg, #d4e6f1, #ffffff, #b3cde0);
+            color:#800080;
+            padding: 20px;
+            text-align: center;
+            margin-top: 20px;
+            cursor: pointer;
+            border-radius: 8px; 
+            transition: background 0.3s ease;
+        }
+
+        .cta:hover {
+            background: linear-gradient(135deg, #a8d0e6, #dbe9f4, #c4d9e6);
+        }
+
+        .login-form {
+            background: #ffffff;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+            max-width: 400px;
+            margin: 0 auto;
+            margin-top: 40px;
+        }
+
+        .contact-login-container {
+            display: flex;
+            justify-content: space-between;
+            gap: 20px;
+            margin-top: 20px;
+        }
+
+        .contact-login-container section {
+            flex: 1;
+            background: #ffffff;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+        }
+
+        .contact-login-container h2 {
+            text-align: center;
+            color: #800080;
+        }
+
+        .contact-login-container p {
+            text-align: center;
+            font-size: 1rem;
+            color: #333;
+        }
+
+        .login-form {
+            background: #ffffff;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+            max-width: 400px;
+            margin: 0 auto;
+            margin-top: 40px;
+        }
+
+        .login-form h2 {
+            text-align: center;
+            color: #800080;
+        }
+
+        .login-form input {
+            width: 100%;
+            padding: 10px;
+            margin: 10px 0;
+            border: 1px solid #ddd;
+            border-radius: 4px;
+        }
+
+        .login-form button {
+            width: 100%;
+            padding: 10px;
+            background-color: #800080;
+            color: white;
+            border: none;
+            border-radius: 4px;
+            cursor: pointer;
+        }
+
+        .login-form button:hover {
+            background-color: #6a006a;
+        }
+
+        /* Responsive Design */
+        @media (max-width: 1200px) {
+            .feature {
+                flex-direction: column;
+                align-items: center;
+            }
+
+            .feature img {
+                margin-bottom: 15px;
+            }
+        }
+
+        @media (max-width: 768px) {
+            header h1 {
+                font-size: 2rem;
+            }
+
+            .sub-heading {
+                font-size: 2rem;
+            }
+
+            .cta {
+                font-size: 1.2rem;
+            }
+
+            .feature {
+                flex-direction: column;
+                align-items: center;
+            }
+
+            .feature img {
+                margin-bottom: 15px;
+            }
+
+            .contact-login-container {
+                flex-direction: column;
+            }
+
+            .contact-login-container section {
+                margin-bottom: 20px;
+            }
+
+            .login-form {
+                width: 100%;
+                padding: 15px;
+                margin-top: 20px;
+            }
+        }
+
+        @media (max-width: 480px) {
+            header h1 {
+                font-size: 1.5rem;
+            }
+
+            .sub-heading {
+                font-size: 1.5rem;
+            }
+
+            .cta {
+                font-size: 1rem;
+                padding: 15px;
+            }
+
+            .login-form {
+                width: 100%;
+                padding: 15px;
+                margin-top: 20px;
+            }
+
+            .cta:hover {
+                padding: 15px;
+            }
+        }
+
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Cloud Computing Solutions</h1>
+        <p class="heading">Leverage the power of the cloud to scale your business</p>
+    </header>
+
+    <nav>
+        <a href="#features">Features</a>
+        <a href="#advantage">Advantage</a>
+        <a href="#contact">Contact</a>
+        <a href="#login">Login</a>
+    </nav>
+
+    <div class="container">
+
+        <h2 class="sub-heading">Key Features</h2>
+
+        <section id="features">
+            <div class="feature">
+                <div class="feature-text">
+                    <h3>Scalability</h3>
+                    <p>Our cloud solutions allow your business to scale up or down based on your needs, ensuring flexibility and cost-efficiency.</p>
+                </div>
+                <img src="https://i.pinimg.com/736x/c3/6a/30/c36a30cab7c0a782732c3b1ea46500f1.jpg" alt="Scalability">
+            </div>
+
+            <div class="feature">
+                <div class="feature-text">
+                    <h3>Data Security</h3>
+                    <p>State-of-the-art security protocols protect your data, giving you peace of mind in a connected world.</p>
+                </div>
+                <img src="https://i.pinimg.com/736x/78/e6/01/78e6015a16f5f77801af4e520190193c.jpg" alt="Data Security">
+            </div>
+
+            <div class="feature" id="advantage">
+                <div class="feature-text">
+                    <h3>Cost Optimization</h3>
+                    <p>Pay only for what you use with our tailored pricing models that save costs without compromising performance.</p>
+                </div>
+                <img src="https://i.pinimg.com/736x/17/c9/19/17c9190c7705fb2679f90544537eacfb.jpg" alt="Cost Optimization">
+            </div>
+        </section>
+
+        <div class="cta" id="cta-button">
+            For Discover More Benefits Please Click Here
+        </div>
+
+        <section id="benefits" style="display: none; padding: 20px; background: #f9fafc; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); margin-top: 20px;">
+            <h2 style="text-align: center; font-size: 2rem; color: #800080; margin-bottom: 15px; text-transform: uppercase; letter-spacing: 1px;">
+                Benefits of Cloud Computing
+            </h2>
+            <ul style="list-style: none; padding: 0; margin: 0; line-height: 1.8;">
+                <li style="margin-bottom: 10px; padding: 10px; background: #ffffff; border-left: 4px solid #800080; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);">
+                    <strong style="color: #333;">Increased Collaboration:</strong> Enhance teamwork with seamless sharing and access to resources from anywhere in the world.
+                </li>
+                <li style="margin-bottom: 10px; padding: 10px; background: #ffffff; border-left: 4px solid #800080; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);">
+                    <strong style="color: #333;">Secure Data:</strong> Reliable Backups to Ensure Your Operations Never Miss a Beat.
+                </li>
+                <li style="margin-bottom: 10px; padding: 10px; background: #ffffff; border-left: 4px solid #800080; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);">
+                    <strong style="color: #333;">Global Accessibility:</strong> Access critical data and services anytime, anywhere, with just an internet connection.
+                </li>
+                <li style="margin-bottom: 10px; padding: 10px; background: #ffffff; border-left: 4px solid #800080; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);">
+                    <strong style="color: #333;">Reduced Environmental Impact:</strong> Lower carbon footprints with energy-efficient, shared cloud infrastructure.
+                </li>
+            </ul>
+        </section>   
+
+        <section id="contact-login">
+            <div class="contact-login-container">
+                <!-- Contact Us Section -->
+                <section id="contact">
+                    <h2>Contact Us</h2>
+                    <p>Email: support@cloudcomputing.com</p>
+                    <p>Phone: +123-456-7890</p>
+                </section>
+        
+                <!-- Login Section -->
+                <section id="login">
+                    <div class="login-form">
+                        <h2>Login to Your Account</h2>
+                        <form action="#" method="POST">
+                            <input type="text" name="username" id="username" placeholder="Username" required>
+                            <input type="password" name="password" id="password" placeholder="Password" required>
+                            <button type="submit">Login</button>
+                        </form>
+                    </div>
+                </section>
+            </div>
+        </section>
+
+    </div>
+
+    <footer>
+        <h3 style="color: #800080;">&copy; 2024 Cloud Computing Solutions. All rights reserved.</h3>
+    </footer>
+
+    <script>
+        const ctaButton = document.getElementById('cta-button');
+        const benefitsSection = document.getElementById('benefits');
+
+        ctaButton.addEventListener('click', () => {
+            if (benefitsSection.style.display === 'none') {
+                benefitsSection.style.display = 'block';
+                ctaButton.textContent = 'Hide Benefits';
+            } else {
+                benefitsSection.style.display = 'none';
+                ctaButton.textContent = 'For Discover More Benefits Please Click Here';
+            }
+        });
+    </script>
+</body>
+</html>
