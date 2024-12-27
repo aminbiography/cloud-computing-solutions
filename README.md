@@ -4,6 +4,10 @@ Resources:
 
   [![Google Cloud Cybersecurity Professional Certificate](https://img.youtube.com/vi/T5CcoAXeVko/0.jpg)](https://youtu.be/T5CcoAXeVko)
 
+  
+On YouTube: 
+Google Cloud:   [https://www.youtube.com/watch?v=T5CcoAXeVko](https://www.youtube.com/@googlecloud)
+
 <h1>Cloud Computing, Web Applications, and Cybersecurity:</h1>
 
 # Cloud Computing, Web Applications with Cybersecurity: Benefits and Advantages
@@ -56,8 +60,7 @@ Cloud computing and web applications offer unmatched flexibility, scalability, a
 
 By embracing cloud technologies and investing in cybersecurity, businesses can enjoy the best of both worlds—efficient, agile operations, and a secure digital environment.
 
-On YouTube: 
-Google Cloud:   [https://www.youtube.com/watch?v=T5CcoAXeVko](https://www.youtube.com/@googlecloud)
+
 
 
 
