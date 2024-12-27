@@ -55,7 +55,9 @@ By embracing cloud technologies and investing in cybersecurity, businesses can e
 On YouTube: 
 Google Cloud:   [https://www.youtube.com/watch?v=T5CcoAXeVko](https://www.youtube.com/@googlecloud)
 
-             <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=dpD7GYQfO3scDmMd&amp;list=PLBgogxgQVM9sGgpcBVYatuq67aGjW8wYJ" title="YouTube video player" frameborder="0"         allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+  [![Google Cloud Cybersecurity Professional Certificate](https://img.youtube.com/vi/T5CcoAXeVko/0.jpg)](https://youtu.be/T5CcoAXeVko)
+
+  [Click here to watch the video on YouTube](https://youtu.be/T5CcoAXeVko?si=8--AcR7Pdjsfaa78)
 
                 
 
