@@ -27,7 +27,7 @@ Resources:
     <img src="https://img.youtube.com/vi/kgMNm5_i3Zk/0.jpg" alt="Google Cloud Cybersecurity Professional Certificate - Video 5">
   </a>
 </div>
- 
+## References:
 Google Cloud:   [https://www.youtube.com/watch?v=T5CcoAXeVko](https://www.youtube.com/@googlecloud)
 
 
@@ -83,7 +83,7 @@ Cloud computing and web applications offer unmatched flexibility, scalability, a
 
 By embracing cloud technologies and investing in cybersecurity, businesses can enjoy the best of both worlds—efficient, agile operations, and a secure digital environment.
 
-## References
+## References:
 
 1. **[Cybersecurity and Cloud Computing: Risks and Benefits](https://rewind.com/blog/cybersecurity-and-cloud-computing-risks-and-benefits/)** - Discusses how cybersecurity measures in cloud computing reduce risks.
 2. **[The Cybersecurity Advantages of the Cloud](https://www.forbes.com/sites/sap/2023/04/03/the-cybersecurity-advantages-of-the-cloud/)** - Highlights how cloud platforms offer built-in security protections.
