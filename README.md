@@ -2,21 +2,34 @@ Live URL: https://aminbiography.github.io/cloud-computing-solutions/
 
 Resources:
 
-  [![Google Cloud Cybersecurity Professional Certificate](https://img.youtube.com/vi/T5CcoAXeVko/0.jpg)](https://youtu.be/T5CcoAXeVko)
-
-  [![Google Cloud Cybersecurity Professional Certificate - Video 1](https://img.youtube.com/vi/SoBsBCBP_z4/0.jpg)](https://youtu.be/SoBsBCBP_z4?si=Fn5-YmKHR8NH1mDA)
-
-  [![Google Cloud Cybersecurity Professional Certificate - Video 2](https://img.youtube.com/vi/kfH5CxRar8w/0.jpg)](https://youtu.be/kfH5CxRar8w?si=8gfN1EzBpAlGvvmx)
-
-  [![Google Cloud Cybersecurity Professional Certificate - Video 3](https://img.youtube.com/vi/gNy7CcJh2BU/0.jpg)](https://youtu.be/gNy7CcJh2BU?si=Wu-TDmsUroljRXUG)
-
-  [![Google Cloud Cybersecurity Professional Certificate - Video 4](https://img.youtube.com/vi/_WrQrCj-TuU/0.jpg)](https://youtu.be/_WrQrCj-TuU?si=EfL7jGROoJzxPxJz)
-
-  [![Google Cloud Cybersecurity Professional Certificate - Video 5](https://img.youtube.com/vi/kgMNm5_i3Zk/0.jpg)](https://youtu.be/kgMNm5_i3Zk?si=eGXESMyi9Pd1eCBX)
-
-
+  <div style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <a href="https://youtu.be/T5CcoAXeVko">
+    <img src="https://img.youtube.com/vi/T5CcoAXeVko/0.jpg" alt="Google Cloud Cybersecurity Professional Certificate">
+  </a>
   
+  <a href="https://youtu.be/SoBsBCBP_z4?si=Fn5-YmKHR8NH1mDA">
+    <img src="https://img.youtube.com/vi/SoBsBCBP_z4/0.jpg" alt="Google Cloud Cybersecurity Professional Certificate - Video 1">
+  </a>
+  
+  <a href="https://youtu.be/kfH5CxRar8w?si=8gfN1EzBpAlGvvmx">
+    <img src="https://img.youtube.com/vi/kfH5CxRar8w/0.jpg" alt="Google Cloud Cybersecurity Professional Certificate - Video 2">
+  </a>
+
+  <a href="https://youtu.be/gNy7CcJh2BU?si=Wu-TDmsUroljRXUG">
+    <img src="https://img.youtube.com/vi/gNy7CcJh2BU/0.jpg" alt="Google Cloud Cybersecurity Professional Certificate - Video 3">
+  </a>
+  
+  <a href="https://youtu.be/_WrQrCj-TuU?si=EfL7jGROoJzxPxJz">
+    <img src="https://img.youtube.com/vi/_WrQrCj-TuU/0.jpg" alt="Google Cloud Cybersecurity Professional Certificate - Video 4">
+  </a>
+
+  <a href="https://youtu.be/kgMNm5_i3Zk?si=eGXESMyi9Pd1eCBX">
+    <img src="https://img.youtube.com/vi/kgMNm5_i3Zk/0.jpg" alt="Google Cloud Cybersecurity Professional Certificate - Video 5">
+  </a>
+</div>
+ 
 Google Cloud:   [https://www.youtube.com/watch?v=T5CcoAXeVko](https://www.youtube.com/@googlecloud)
+
 
 <h1>Cloud Computing, Web Applications, and Cybersecurity:</h1>
 
@@ -70,6 +83,13 @@ Cloud computing and web applications offer unmatched flexibility, scalability, a
 
 By embracing cloud technologies and investing in cybersecurity, businesses can enjoy the best of both worlds—efficient, agile operations, and a secure digital environment.
 
+## References
+
+1. **[Cybersecurity and Cloud Computing: Risks and Benefits](https://rewind.com/blog/cybersecurity-and-cloud-computing-risks-and-benefits/)** - Discusses how cybersecurity measures in cloud computing reduce risks.
+2. **[The Cybersecurity Advantages of the Cloud](https://www.forbes.com/sites/sap/2023/04/03/the-cybersecurity-advantages-of-the-cloud/)** - Highlights how cloud platforms offer built-in security protections.
+3. **[The Impact of Cloud Computing on Network Security](https://mrinetwork.com/hiring-talent-strategy/the-impact-of-cloud-computing-on-network-security/)** - Explores cloud computing’s role in network security.
+4. **[6 Security Benefits of Cloud Computing Environments](https://www.redhat.com/en/resources/six-ways-cloud-security-checklist)** - Outlines key security features in cloud environments.
+5. **[The Role of Cloud Computing in Enhancing Cybersecurity](https://www.ironhack.com/us/blog/the-role-of-cloud-computing-in-cybersecurity)** - Explains how cloud computing strengthens cybersecurity defenses.
 
 
 
