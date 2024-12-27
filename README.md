@@ -52,4 +52,4 @@ Cloud computing and web applications offer unmatched flexibility, scalability, a
 
 By embracing cloud technologies and investing in cybersecurity, businesses can enjoy the best of both worlds—efficient, agile operations, and a secure digital environment.
 
-On YouTube: https://www.google.com/search?client=firefox-b-d&q=Google+Cloud+Cybersecurity+Professional+Certificate+++++++++qualification+#fpstate=ive&vld=cid:726989d0,vid:T5CcoAXeVko,st:0
+On YouTube: https://www.youtube.com/watch?v=T5CcoAXeVko
