@@ -4,8 +4,18 @@ Resources:
 
   [![Google Cloud Cybersecurity Professional Certificate](https://img.youtube.com/vi/T5CcoAXeVko/0.jpg)](https://youtu.be/T5CcoAXeVko)
 
+  [![Google Cloud Cybersecurity Professional Certificate - Video 1](https://img.youtube.com/vi/SoBsBCBP_z4/0.jpg)](https://youtu.be/SoBsBCBP_z4?si=Fn5-YmKHR8NH1mDA)
+
+  [![Google Cloud Cybersecurity Professional Certificate - Video 2](https://img.youtube.com/vi/kfH5CxRar8w/0.jpg)](https://youtu.be/kfH5CxRar8w?si=8gfN1EzBpAlGvvmx)
+
+  [![Google Cloud Cybersecurity Professional Certificate - Video 3](https://img.youtube.com/vi/gNy7CcJh2BU/0.jpg)](https://youtu.be/gNy7CcJh2BU?si=Wu-TDmsUroljRXUG)
+
+  [![Google Cloud Cybersecurity Professional Certificate - Video 4](https://img.youtube.com/vi/_WrQrCj-TuU/0.jpg)](https://youtu.be/_WrQrCj-TuU?si=EfL7jGROoJzxPxJz)
+
+  [![Google Cloud Cybersecurity Professional Certificate - Video 5](https://img.youtube.com/vi/kgMNm5_i3Zk/0.jpg)](https://youtu.be/kgMNm5_i3Zk?si=eGXESMyi9Pd1eCBX)
+
+
   
-On YouTube: 
 Google Cloud:   [https://www.youtube.com/watch?v=T5CcoAXeVko](https://www.youtube.com/@googlecloud)
 
 <h1>Cloud Computing, Web Applications, and Cybersecurity:</h1>
