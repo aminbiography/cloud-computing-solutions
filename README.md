@@ -27,8 +27,9 @@ Live URL: https://aminbiography.github.io/cloud-computing-solutions/
     <img src="https://img.youtube.com/vi/kgMNm5_i3Zk/0.jpg" alt="Google Cloud Cybersecurity Professional Certificate - Video 5">
   </a>
 </div>
+
 ## References:
-<br>
+
 Google Cloud:  [Google Cloud YouTube Channel](https://www.youtube.com/@googlecloud)
 
 
