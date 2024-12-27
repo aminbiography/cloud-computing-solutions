@@ -1,5 +1,9 @@
 Live URL: https://aminbiography.github.io/cloud-computing-solutions/
 
+Resources:
+
+  [![Google Cloud Cybersecurity Professional Certificate](https://img.youtube.com/vi/T5CcoAXeVko/0.jpg)](https://youtu.be/T5CcoAXeVko)
+
 <h1>Cloud Computing, Web Applications, and Cybersecurity:</h1>
 
 # Cloud Computing, Web Applications with Cybersecurity: Benefits and Advantages
@@ -55,9 +59,9 @@ By embracing cloud technologies and investing in cybersecurity, businesses can e
 On YouTube: 
 Google Cloud:   [https://www.youtube.com/watch?v=T5CcoAXeVko](https://www.youtube.com/@googlecloud)
 
-  [![Google Cloud Cybersecurity Professional Certificate](https://img.youtube.com/vi/T5CcoAXeVko/0.jpg)](https://youtu.be/T5CcoAXeVko)
 
-  [Click here to watch the video on YouTube](https://youtu.be/T5CcoAXeVko?si=8--AcR7Pdjsfaa78)
+
+ 
 
                 
 
