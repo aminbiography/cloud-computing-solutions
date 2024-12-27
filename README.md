@@ -55,9 +55,11 @@ By embracing cloud technologies and investing in cybersecurity, businesses can e
 On YouTube: 
 Google Cloud:   [https://www.youtube.com/watch?v=T5CcoAXeVko](https://www.youtube.com/@googlecloud)
 
-                https://youtube.com/playlist?list=PLBgogxgQVM9sGgpcBVYatuq67aGjW8wYJ&si=dpD7GYQfO3scDmMd
+                ```
+                https://youtube.com/playlist?list=PLBgogxgQVM9sGgpcBVYatuq67aGjW8wYJ&si=dpD7GYQfO3scDmMd```
 
-                https://www.youtube.com/watch?v=T5CcoAXeVko&list=PLBgogxgQVM9sGgpcBVYatuq67aGjW8wYJ
+                ```
+                https://www.youtube.com/watch?v=T5CcoAXeVko&list=PLBgogxgQVM9sGgpcBVYatuq67aGjW8wYJ```
 
                 
 
