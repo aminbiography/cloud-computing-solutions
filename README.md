@@ -1,6 +1,6 @@
 Live URL: https://aminbiography.github.io/cloud-computing-solutions/
   
-## Resources:  
+## Resources:   
 
   <div style="display: flex; flex-wrap: wrap; gap: 10px;">
   <a href="https://youtu.be/T5CcoAXeVko">
